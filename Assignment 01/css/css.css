@@ -1,0 +1,262 @@
+
+*{
+    margin:0;
+    padding:0;
+
+}
+.text-over-first-image{
+
+    color : white;
+    padding:100px 0 0 100px;
+}
+.first-image{
+    position:absolute;
+    top :0;
+    left : 0;
+    z-index: -1;
+    width:100%;
+    height:620px;
+}
+.music-festival{
+    font-family: 'Ubuntu', sans-serif;
+    font-size:70px;
+}
+.paragraph-1{
+    font-family: 'Benne', serif;
+    line-height: 20px;
+}
+.So-why-does{
+    font-size : 35px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.read-more{
+    height:50px;
+    width:150px;
+    background-color:#e84118;
+    font-size:13px;
+    color:white;
+    border:none;
+}
+.read-more a {
+    text-decoration: none;
+    color:white;
+}
+
+.read-more:hover {
+    background-color:#d35400;
+}
+.music-legend-second-main-div-components{
+
+
+}
+.second-main-div{
+
+    margin: 250px 0 0 0;
+    display:flex;
+    justify-content: center;
+}
+.music-legend-second-main-div-components{
+
+    height:370px;
+    width: 370px;
+    padding: 50px 10px 10px 50px;
+
+}
+.music-legend-second-main-div-components h1{
+    font-size: 40px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.img-microphone-second-main-div-components img{
+
+    height:370px;
+    width: 370px;
+
+}
+.acting-and-second-main-div-components{
+
+    height:450px;
+    width: 450px;
+    padding:0 85px 0 0;
+ }
+.Acting{
+
+}
+.acting-and-second-main-div-components{
+    text-align: right;
+}
+.acting-and-second-main-div-components h1{
+    font-size: 40px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.Along{
+    font-family: 'Benne', serif;
+    line-height: 20px;
+}
+.gordon{
+    font-family: 'Benne', serif;
+    line-height: 20px;
+}
+.third-main-div img{
+
+    width:100%;
+    height:650px;
+}
+.instruments{
+    position:relative;
+    top :0;
+    left : 0;
+    z-index: -1;
+    width:100%;
+    height:650px;
+}
+
+.third-right-side{
+    padding:100px 100px 0 100px;
+    text-align: right;
+
+    position:absolute;
+    right:10px;
+    height: 500px;
+    width:400px
+
+}
+.last-ship-h1{
+    color:white;
+    font-size: 45px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.in-para{
+    color:white;
+    font-family: 'Benne', serif;
+}
+
+.read-more-div{
+    color:white;
+}
+
+.player-img{
+
+    width:550px;
+    height:400px;
+    padding:100px 100px 0 0;
+
+}
+.left-side-data4{
+
+    width:650px;
+    padding:50px 0 0 100px;
+}
+
+.Forth-main-div{
+    display:flex;
+    height:650px;
+}
+.personal{
+    padding-top:80px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 45px;
+}
+.In-addition{
+    padding:10px 200px 0 0;
+    font-family: 'Benne', serif;
+}
+
+.old-man-img{
+    position:relative;
+    top :0;
+    left : 0;
+    z-index: -1;
+    width:100%;
+    height:650px;
+}
+
+.text-over-image-five{
+    color:white;
+    padding:100px 100px 0 100px;
+    text-align: left;
+
+    position:absolute;
+    left:10px;
+    height: 500px;
+    width:400px
+}
+
+.h1-The-last-ship{
+    font-size: 40px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.para-in-2013{
+    font-family: 'Benne', serif;
+}
+.sixth-main-div{
+    position:relative;
+    display:flex;
+}
+
+.text-one{
+
+    width:450px;
+    height:450px;
+}
+.guitar-top-img{
+    width:350px;
+
+    height:330px;
+    justify-content: center;
+    align-items: center;
+    padding:100px 0 0 50px;
+}
+.learn-to-enjoy{
+   padding:100px 0 0 50px;
+    width:450px;
+
+    height:450px;
+}
+.div-image-sixth-main-div{
+
+    width:450px;
+    height:450px;
+}
+.text-one{
+    padding:50px 0 0 100px;
+}
+.what-is{
+    font-size: 40px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.i-dont{
+    font-family: 'Benne', serif;
+}
+.para-learn{
+    font-family: 'Benne', serif;
+    padding:0 50px 0 45px;
+}
+.footer{
+    background-color: #2f3640;
+    color:white;
+    height:110px;
+    width:100%;
+   text-align: center;
+
+}
+.footer1{
+
+    color:#e67e22;
+}
+
+.footer2{
+
+    color:#e67e22;
+}
+.footer-text {
+    padding: 45px 0 45px 0;
+}
+
+.footer1:hover{
+    color:#f5f6fa;
+}
+.footer2:hover{
+    color:#f5f6fa;
+}
